@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e4b33127ecfed8048be470e8410a33dc, type: 3}
+  m_Name: Question
+  m_EditorClassIdentifier: 
+  question: "Ai l\xE0 t\u1ED5ng th\u1ED1ng \u0111\u1EA7u ti\xEAn c\u1EE7a n\u01B0\u1EDBc
+    M\u0129"
+  answer:
+  - Washington
+  - You
+  - Buzz
+  - Faker
+  correctAnsIndex: 0
